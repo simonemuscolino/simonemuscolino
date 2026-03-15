@@ -1,21 +1,23 @@
 # Simone Muscolino
 
-Aerospace engineering student interested in space exploration, orbital mechanics and scientific computing.
+Aerospace engineering graduate with a strong interest in space systems engineering, orbital mechanics and propulsion modelling.  
+This GitHub collects projects related to aerospace simulations, scientific computing and numerical modelling.
 
 ## Technical Interests
 
-- Aerospace engineering
+- Space systems engineering
 - Orbital mechanics
+- Propulsion modelling
 - Scientific computing
-- Python and MATLAB simulations
+- Aerospace simulations
+
+## Programming & Tools
+
+- Python
+- MATLAB / Simulink
+- NumPy
+- Matplotlib
 
 ## Projects
 
-Here you can find some of my projects related to aerospace simulations, numerical modelling and scientific computing.
-
-## Tools
-
-- Python
-- MATLAB
-- NumPy
-- Matplotlib
+This repository contains several projects focused on aerospace engineering applications, including trajectory simulations, rocket dynamics and space systems modelling.
