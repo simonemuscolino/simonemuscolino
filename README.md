@@ -1,16 +1,21 @@
-## Hi there 👋
+# Simone Muscolino
 
-<!--
-**simonemuscolino/simonemuscolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace engineering student interested in space exploration, orbital mechanics and scientific computing.
 
-Here are some ideas to get you started:
+## Technical Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aerospace engineering
+- Orbital mechanics
+- Scientific computing
+- Python and MATLAB simulations
+
+## Projects
+
+Here you can find some of my projects related to aerospace simulations, numerical modelling and scientific computing.
+
+## Tools
+
+- Python
+- MATLAB
+- NumPy
+- Matplotlib
